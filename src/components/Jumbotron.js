@@ -8,7 +8,7 @@ const Styles = styled.div``;
 export const Jumbotron = () => (
   <Styles>
     <Jumbo fluid className="jumbo">
-        <div className="overlay"></div>
+      <div className="overlay"></div>
       <Container>
         <h1>Welcome</h1>
         <p>Learn by youtube video</p>
